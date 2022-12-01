@@ -1,1 +1,1 @@
-# Noob_projects
+Proyectos varios sin funcionalidad real, puro entretenimiento.
